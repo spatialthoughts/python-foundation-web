@@ -1,0 +1,13 @@
+name: python_foundation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - geopandas=0.7
+  - geopy
+  - jupyterlab
+  - matplotlib
+  - rasterio
+prefix: /Users/ujaval/opt/anaconda3/envs/python_foundation
+
