@@ -7,7 +7,6 @@ dependencies:
   - geopandas=0.8
   - geopy
   - jupyterlab
-  - jupyter-offlinenotebook
   - matplotlib
   - rasterio
 
